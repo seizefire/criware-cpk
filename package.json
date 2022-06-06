@@ -1,0 +1,14 @@
+{
+	"name": "criware-cpk",
+	"version": "1.0.0",
+	"description": "Open CRIWARE's CPK format",
+	"main": "index.js",
+	"keywords": [],
+	"repository": {
+		"type": "git",
+		"url": "github:seizefire/criware-cpk#nodejs"
+	},
+	"typings": "index.d.ts",
+	"author": "Seizefire",
+	"license": "MIT"
+}
